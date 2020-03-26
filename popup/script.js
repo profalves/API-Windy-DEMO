@@ -1,6 +1,6 @@
 const options = {
   // Required: API key
-  key: 'DxdU7RpWE9HaRVTBg3X8HaXRXi9aahgv', // REPLACE WITH YOUR KEY !!!
+  key: 'DxdU7RpWE9', // REPLACE WITH YOUR KEY !!!
 
   // Put additional console output
   verbose: true,
